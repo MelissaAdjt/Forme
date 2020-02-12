@@ -31,7 +31,7 @@ public class Tpforme extends JFrame {
         private int longueur ;  //ajouter ca 
 
     
- 
+        
 	private class barre extends JPanel {
 		private Point selectionStart;
  
